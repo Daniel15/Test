@@ -11,6 +11,6 @@ Yes, it certainly does
 2. Test more
 3. Release!
 
-Test [Daniel15][] link
+Test [Daniel15][] link. Cool!
 
  [Daniel15]: http://dan.cx/
